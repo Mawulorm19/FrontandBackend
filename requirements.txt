@@ -1,4 +1,3 @@
-aext-assistant @ file:///croot/aext-assistant_1746560159092/work
 aext-assistant-server @ file:///croot/aext-assistant-server_1746552996002/work
 aext-core @ file:///croot/aext-core_1746546086222/work
 aext-core-server @ file:///croot/aext-core-server_1746542345456/work
